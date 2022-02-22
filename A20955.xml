@@ -1,0 +1,567 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peter Du Moulin. His oration in the praise of divinitie Wherein is shevven that heathenish fables were first derived from holy Scripture. Transl. by J.M.</title>
+            <author>Du Moulin, Pierre, 1568-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 67 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20955</idno>
+            <idno type="STC">STC 7334</idno>
+            <idno type="STC">ESTC S118650</idno>
+            <idno type="EEBO-CITATION">99853857</idno>
+            <idno type="PROQUEST">99853857</idno>
+            <idno type="VID">19255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19255)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1095:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peter Du Moulin. His oration in the praise of divinitie Wherein is shevven that heathenish fables were first derived from holy Scripture. Transl. by J.M.</title>
+                  <author>Du Moulin, Pierre, 1568-1658.</author>
+                  <author>J. M., fl. 1640.</author>
+               </titleStmt>
+               <extent>[2], 123, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. A[lsop] and T. F[awcet] for Hen: Shepheard, and are to be sold at his shop in Chancery-lane, at the signe of the Bible,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printers' names from STC.</note>
+                  <note>Translated by James Mountaine?--STC.</note>
+                  <note>Imperfect as filmed; print faded.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19255:1" rendition="simple:additions"/>
+            <pb facs="tcp:19255:1"/>
+            <p>PETER DV MOVLIN. HIS ORATION in the praiſe of <hi>Divinitie.</hi> WHEREIN IS SHEVVEN that <hi>Heatheniſh</hi> fables were firſt derived from holy SCRIPTVRE.</p>
+            <p>Tranſl. by <hi>J. M.</hi>
+            </p>
+            <p>LONDON, Printed <hi>by B. A.</hi> and <hi>T. F.</hi> for <hi>Hen: Shepheard,</hi> and are to be ſold at his ſhop in <hi>Chancery-lane,</hi> at the ſigne of the <hi>Bible.</hi> 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:19255:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:19255:2"/>
+            <head>PETER DV MOVLIN HIS ORATION in the Praiſe of <hi>Theologie.</hi>
+            </head>
+            <head type="sub">Spoken at <hi>Sedanum</hi> in an Auditory of Divines, VIII of <hi>the Ides of December,</hi> 1628. Before the <hi>Inauguration</hi> of the learned ALEXANDER COL<g ref="char:EOLhyphen"/>VINUS to the degree of a Doctor, and before his admiſſion to the pro<g ref="char:EOLhyphen"/>feſſion of Theo<g ref="char:EOLhyphen"/>logie.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Inaugu<g ref="char:EOLhyphen"/>ration</hi> of a Doctor, and Profeſſor of
+<pb facs="tcp:19255:3" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:19255:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:19255:4"/>Divinitie, which we are now preparing (moſt ac<g ref="char:EOLhyphen"/>compliſht and curteous Auditors) doth require, that we ſhould firſt ſpeak ſomething of the nature and dignity of <hi>Theologie.</hi> Not as if this ſacred Pro<g ref="char:EOLhyphen"/>feſſion could be more a<g ref="char:EOLhyphen"/>dorned by our commen<g ref="char:EOLhyphen"/>dation; but that your induſtry may be inflamed to embrace theſe ſtudies, which by the unhappi<g ref="char:EOLhyphen"/>neſſe of theſe times are very little regarded.</p>
+            <p>Many men doe ſup<g ref="char:EOLhyphen"/>poſe, that it is a difficult thing to ſet forth ſlen<g ref="char:EOLhyphen"/>der and ſmall matters in
+<pb n="3" facs="tcp:19255:4"/>cellency of ſpeech, and to adde weight vnto things which are light, by rea<g ref="char:EOLhyphen"/>ſon of the tenuity of the matter; neither have there wanted ſome, who that they might become fa<g ref="char:EOLhyphen"/>mous for their wits, have written in praiſe of a Fly, and a quartaine A<g ref="char:EOLhyphen"/>gue; nor was I SOCRA<g ref="char:EOLhyphen"/>TES aſhamed in a long Oration to extoll the praiſes of BVSIRIDES, a man who ſeemed to have caſt off man: whom I eſteeme <hi>(as ſayes the Pro<g ref="char:EOLhyphen"/>verbe)</hi> to have powred oyle on Lintels, and to have ſought for renowne
+<pb n="4" facs="tcp:19255:5"/>out of a matter very eaſie to be done. For what is more ready then to ſpeak untruths? What field is more copious then ly<g ref="char:EOLhyphen"/>ing? Or how can they want matter of diſcourſe who out of an extreme delight in faining, have little regard, whether their words bee correſ<g ref="char:EOLhyphen"/>pondent to the things, or their ſpeech unto the truth.</p>
+            <p>But to me it ſeemeth a matter farre more diffi<g ref="char:EOLhyphen"/>cult, to expreſſe great ſubjects in equality of language, and ſo to ſpeake of the greateſt argument,
+<pb n="5" facs="tcp:19255:5"/>that its value may not be impaired, nor its ſplen<g ref="char:EOLhyphen"/>dor overcaſt by the dul<g ref="char:EOLhyphen"/>neſſe of the ſpeaker. So whereas the vertue of God doth in an infinite diſtance ſurmount the vertue of man, yet it is a thing more difficult fitly to praiſe God, then Man. But to endeavour to il<g ref="char:EOLhyphen"/>luſtrate with words a thing which is not ſeene with outward beames, but with its own naturall light, what is it but to point with ones finger at the Sunne.</p>
+            <p>And indeed, the very greatneſſe doth confound
+<pb n="6" facs="tcp:19255:6"/>me, whileſt I attempt to ſpeak of the moſt weigh<g ref="char:EOLhyphen"/>ty argument. And the very incitations doe hin<g ref="char:EOLhyphen"/>der me. For that excel<g ref="char:EOLhyphen"/>lency of the matter w<hi rend="sup">ch</hi> doth inſtigate the endea<g ref="char:EOLhyphen"/>vour doth cumber the ſucceſſe. But pardon is eaſily granted by favou<g ref="char:EOLhyphen"/>rable Auditors. And that eſpecially in a divine ſub<g ref="char:EOLhyphen"/>ject, whoſe leaſt know<g ref="char:EOLhyphen"/>ledge it is better to ob<g ref="char:EOLhyphen"/>taine, then the moſt accu<g ref="char:EOLhyphen"/>rate of humane things: no otherwiſe then the leaſt ray of the Sunne is more excellent then a thouſand candles.</p>
+            <pb n="7" facs="tcp:19255:6"/>
+            <p>In which diſcourſe do you not expect from mee the flouriſhes of Rheto<g ref="char:EOLhyphen"/>ricians, nor the orna<g ref="char:EOLhyphen"/>ments of Orators, nor the equall ſmoothneſſe of Sentences, nor that my ſpeech ſhould be ſwolne up with bubled vanity, nor that I ſhould ſcatter on your heads ſome crums out of <hi>Ariſtotles</hi> conciſe ſpeech. It is ſuf<g ref="char:EOLhyphen"/>ficient for us to be un<g ref="char:EOLhyphen"/>derſtood. Hee is abun<g ref="char:EOLhyphen"/>dantly eloquent in this argument, who ſpeaketh truth; nor doth that ſim<g ref="char:EOLhyphen"/>ple majeſty of Divine wiſdome ſtand in need
+<pb n="8" facs="tcp:19255:7"/>of borrowed colours. Therefore as the nature of the thing ſhal require, and as occaſion ſhall lead us, ſhall our ſpeech run on plainly, and inelabo<g ref="char:EOLhyphen"/>rately.</p>
+            <p>
+               <hi>Theologie,</hi> if thou looke after the <hi>Etimologie</hi> of the word, is <hi>a ſpeech of GOD:</hi> And he is com<g ref="char:EOLhyphen"/>monly called a <hi>Theologer</hi> or <hi>Divine,</hi> who knoweth, or profeſſeth the know<g ref="char:EOLhyphen"/>ledge of Divine things. With this title were the ancient Poets graced in times paſt. So doth <hi>A<g ref="char:EOLhyphen"/>riſtotle</hi> call them in the 12. of his <hi>Metaph.</hi> and
+<pb n="9" facs="tcp:19255:7"/>
+               <hi>Cicero</hi> in the 3. booke of the <hi>Nature of the Gods.</hi> And <hi>Clemens Alexandri<g ref="char:EOLhyphen"/>nus</hi> in the 5. of his <hi>Tapiſt.</hi> ſayes, That <hi>Orpheus</hi> was called a <hi>Divine.</hi>
+            </p>
+            <p>There were amongſt the ancient <hi>Grecians</hi> three kinds of <hi>Theology:</hi> one <hi>Fa<g ref="char:EOLhyphen"/>bulous,</hi> the other <hi>Phyloſo<g ref="char:EOLhyphen"/>phicall,</hi> and the third <hi>Poli<g ref="char:EOLhyphen"/>ticke.</hi> Fabulous is that wherein Poets doe verſi<g ref="char:EOLhyphen"/>fie. Philoſophicall that which the naturall Phi<g ref="char:EOLhyphen"/>loſopher doth touch, and therein endeth; the Me<g ref="char:EOLhyphen"/>taphyſitian doth more fully expreſſe. But the Politicke was amongſt
+<pb n="10" facs="tcp:19255:8"/>the Prieſts, and conſiſted in Ceremonies and Pon<g ref="char:EOLhyphen"/>tificiall rights. The firſt was fit for <hi>Theatres,</hi> the ſecond for <hi>Schooles,</hi> the third for <hi>Cities</hi> and civill ſociety.</p>
+            <p>But we who are Chri<g ref="char:EOLhyphen"/>ſtians call that <hi>Theologie,</hi> which is a ſcience of Di<g ref="char:EOLhyphen"/>vine things, and which treateth of God, not ac<g ref="char:EOLhyphen"/>cording to humane rea<g ref="char:EOLhyphen"/>ſon, but divine revelati<g ref="char:EOLhyphen"/>on, which ſheweth not onely what GOD is in himſelfe, but alſo what hee is towards us; nor doth it onely diſcuſſe of his nature, but alſo of his
+<pb n="11" facs="tcp:19255:8"/>will, teaching us what God expecteth from us, and what wee ſhould ex<g ref="char:EOLhyphen"/>pect from God, what we ſhould hope for, what we ſhould feare: which learning when the Apo<g ref="char:EOLhyphen"/>ſtle St. IOHN had copi<g ref="char:EOLhyphen"/>ouſly, and ſublimely han<g ref="char:EOLhyphen"/>dled, in the Argument of the <hi>Revelation</hi> he is juſtly ſtiled <hi>the Divine.</hi>
+            </p>
+            <p>Which notwithſtan<g ref="char:EOLhyphen"/>ding I would not have ſo underſtood by you, as if <hi>Theologie</hi> comprehen<g ref="char:EOLhyphen"/>ded nothing but Revela<g ref="char:EOLhyphen"/>tion. That naturall im<g ref="char:EOLhyphen"/>preſſion. <hi>That there is a God</hi> appertaineth to The<g ref="char:EOLhyphen"/>ologie;
+<pb n="12" facs="tcp:19255:9"/>and alſo thoſe naturall notions of equi<g ref="char:EOLhyphen"/>ty and goodneſs, implan<g ref="char:EOLhyphen"/>ted in Barbarians with<g ref="char:EOLhyphen"/>out any inſtruction, as being nothing elſe, but that law of God which was engraven in the hearts of men, before the publiſhing of the Law. The Apoſtle teſtifying it in his Epiſtle to the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> chap. 2. where hee ſayes; That <hi>the Gentiles by nature did the things contained in the Law, and ſhewed the effect of the law written in their hearts.</hi> But theſe notions, like vnto decayed Characters
+<pb n="13" facs="tcp:19255:9"/>are made more expreſſe and illuſtrious: after that divine Revelation is ad<g ref="char:EOLhyphen"/>ded vnto naturall know<g ref="char:EOLhyphen"/>ledge. The Divine doth alſo by ſence, without re<g ref="char:EOLhyphen"/>velation, know, many things of the workes of God, but which do then at laſt begin to be com<g ref="char:EOLhyphen"/>fortable, when out of the revealed word of God, there is engrafted in the mind a certaine perſwaſi<g ref="char:EOLhyphen"/>on of the love which Chriſt beareth towards vs. Then doth a man be<g ref="char:EOLhyphen"/>gin to live in the earth as in his Grandfathers lands. The<g ref="char:cmbAbbrStroke">̄</g> doth he walke
+<pb n="14" facs="tcp:19255:10"/>through the fields and woods, as through his Fathers garden. Then doth hee behold the Heavens as the fron<g ref="char:EOLhyphen"/>tiſpiece of his Fathers pallace, in which hee knoweth he hath a habi<g ref="char:EOLhyphen"/>tatio<g ref="char:cmbAbbrStroke">̄</g> provided; nor doth he feed his mind with ſpe<g ref="char:EOLhyphen"/>culation without hope, as is the contemplatio<g ref="char:cmbAbbrStroke">̄</g> of Aſtronomers. And as by the guidance of the ſmal<g ref="char:EOLhyphen"/>left river wee may at laſt come unto the ſea: ſo do the leaſt creatures by ſi<g ref="char:EOLhyphen"/>lent, but not obſcure in<g ref="char:EOLhyphen"/>ſtructions lead us unto the immenſe depth of
+<pb n="15" facs="tcp:19255:10"/>Gods wiſedome, and omnipotency, notwith<g ref="char:EOLhyphen"/>ſtanding, thoſe alone doe reape this fruit by the documents of theſe dumbe ſchoole-Maſters, who faithfully have re<g ref="char:EOLhyphen"/>ceived the doctrine of the Goſpell.</p>
+            <p>For as often as a man rowleth his eies through this whole univerſity of things, and comtempla<g ref="char:EOLhyphen"/>teth the Heavens and the Earth depending upon the leaſt becke of divini<g ref="char:EOLhyphen"/>ty, he meets with that un<g ref="char:EOLhyphen"/>approached light where<g ref="char:EOLhyphen"/>in GOD dwelleth, and his terrifying Majeſty
+<pb n="16" facs="tcp:19255:11"/>ſtrikes a blindneſſe into the eyes of the vnder<g ref="char:EOLhyphen"/>ſtanding. Hee ſeeth his Majeſty armed with lightnings, and Angels waiting on him as Mini<g ref="char:EOLhyphen"/>ſters, &amp; appariters; which Contemplation would ſerve onely for our aſto<g ref="char:EOLhyphen"/>niſhment, if peace with God were not revealed vnto vs by the Goſpell, and horrour caſt off were turned into reverence and trembling into a fili<g ref="char:EOLhyphen"/>all confidence.</p>
+            <p>For this reaſon did GOD put on Man, that he might be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the more <hi>eaſily acceſſible,</hi> and
+<pb n="17" facs="tcp:19255:11"/>whil'ſt he went unto Man he might goe unto God. And as MO<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ES deſcen<g ref="char:EOLhyphen"/>ding from the Mount co<g ref="char:EOLhyphen"/>vered his ſhining face with a vayle, that with its ſplendor he might not dazell the eyes of the <hi>Iſ<g ref="char:EOLhyphen"/>raelites:</hi> So God, and the ſame ſonne of God, de<g ref="char:EOLhyphen"/>ſcending vnto vs from heaven, ſhrowded his Ma<g ref="char:EOLhyphen"/>jeſty in a vayle of humane nature, that we might not be ſtricken downe at his preſence, and trembling at his face as a judge, be confounded by his glo<g ref="char:EOLhyphen"/>ry. Nor was there any arbitrator more fit, by
+<pb n="18" facs="tcp:19255:12"/>whoſe mediation the diſcord betweene God and Man might be com<g ref="char:EOLhyphen"/>pounded, then he, who being both God &amp; Man, did participate of both parts in a communion of nature.</p>
+            <p>All theſe things tend hitherto, that I may ſhew, that that part of <hi>Theolo<g ref="char:EOLhyphen"/>gie,</hi> which is gotten by ſence or naturall know<g ref="char:EOLhyphen"/>ledge, is vnprofitable, vn<g ref="char:EOLhyphen"/>leſſe the other part be ad<g ref="char:EOLhyphen"/>ded vnto it, which is gotten onely by Revela<g ref="char:EOLhyphen"/>tion.</p>
+            <p>In this place it is not neceſſary for us to diſ<g ref="char:EOLhyphen"/>pute,
+<pb n="19" facs="tcp:19255:12"/>whether Theologie be <hi>Sapience,</hi> or <hi>Science,</hi> in that manner, as theſe fa<g ref="char:EOLhyphen"/>culties of the mind are defined by <hi>Ariſtotle</hi> in the ſixth of his <hi>Ethicks.</hi> The Apoſtle hath cut off this controverſie ſpeaking thus of the doctrine of the Goſpell, 1 <hi>Cor.</hi> 2.6. <hi>We ſpeake wiſedome among them that are perfect, and</hi> cap. 12.8. <hi>To one is given the word of Wiſdome, to an<g ref="char:EOLhyphen"/>other the word of Know<g ref="char:EOLhyphen"/>ledge, by the ſame Spirit.</hi> But if skilfull Ditchers and Plowmen, are by <hi>Ho<g ref="char:EOLhyphen"/>mer</hi> called Wiſemen, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi>
+            </p>
+            <pb n="18" facs="tcp:19255:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:19255:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:19255:14"/>
+            <p>By much better right ſhall the knowledge of the greateſt and divine things be called <hi>Wiſe<g ref="char:EOLhyphen"/>dome.</hi> This is that true <hi>prime Philoſophy</hi> and <hi>Me<g ref="char:EOLhyphen"/>taphyſicks,</hi> not indeed that which tortures the wit a<g ref="char:EOLhyphen"/>bout the vniverſall affec<g ref="char:EOLhyphen"/>tions of <hi>Ens,</hi> but that which demonſtrateth God <hi>a Poſteriori,</hi> as he was ſeene of MOSES behind: and which following, the enchained order of things which are moved, doth from the motion of inferiour bodies aſcend vnto the <hi>Primum Mobile,</hi> and from the firſt <hi>Movea<g ref="char:EOLhyphen"/>ble</hi>
+               <pb n="21" facs="tcp:19255:14"/>to the firſt <hi>Mover,</hi> who muſt neceſſarily be im<g ref="char:EOLhyphen"/>moveable, and ſo by mo<g ref="char:EOLhyphen"/>tion commeth vnto reſt; Of which <hi>Ariſtotle</hi> is a moſt copious witneſſe, who concludeth his <hi>Phy<g ref="char:EOLhyphen"/>ſickes,</hi> wherein he largely diſcourſeth of <hi>Motion</hi> in the <hi>Prime Mover,</hi> well knowing that this is the end of naturall know<g ref="char:EOLhyphen"/>ledge, to lead vnto things which are ſupernaturall.</p>
+            <p>Indeed the principles, of a <hi>Science</hi> muſt be knowne by nature, as <hi>A<g ref="char:EOLhyphen"/>riſt,</hi> teacheth in the firſt booke of his <hi>Poſter.</hi> But the Principles of Divini<g ref="char:EOLhyphen"/>ty
+<pb n="22" facs="tcp:19255:15"/>are not knowne by na<g ref="char:EOLhyphen"/>ture, as being onely ob<g ref="char:EOLhyphen"/>tained by Revelation. But that which is wanting to the light, and perſpecuity of the principles is abun<g ref="char:EOLhyphen"/>dantly requited and a<g ref="char:EOLhyphen"/>mended in the authority of the teacher.</p>
+            <p>It is wont alſo to be diſputed, whether <hi>Theo<g ref="char:EOLhyphen"/>logie</hi> be <hi>Speculative</hi> or <hi>Practicke:</hi> I will deter<g ref="char:EOLhyphen"/>mine the matter in few words. That part of <hi>The<g ref="char:EOLhyphen"/>ologie</hi> which handleth of our manners, and the well ordering of our lives, is meerely prac<g ref="char:EOLhyphen"/>tique: for it is wholly re<g ref="char:EOLhyphen"/>ferred
+<pb n="23" facs="tcp:19255:15"/>vnto action, wher<g ref="char:EOLhyphen"/>unto no one can attaine, without the guidance of contemplation, but ſuch as is wholly deſtinated unto action.</p>
+            <p>But that other part of Theologie, which trea<g ref="char:EOLhyphen"/>teth of God and his na<g ref="char:EOLhyphen"/>ture, of his ſimplicity, E<g ref="char:EOLhyphen"/>ternity, infiniteneſſe is al<g ref="char:EOLhyphen"/>together contemplative. For theſe things fall not within compaſſe of acti<g ref="char:EOLhyphen"/>on. I doe not deny, but that the knowledge of theſe things alſo doth conduce much vnto good workes, ſo farre forth as the love of God is ſtirred
+<pb n="24" facs="tcp:19255:16"/>vp thereby, and his re<g ref="char:EOLhyphen"/>verence augmented. But this is only by occaſion, as when a ſcholler lear<g ref="char:EOLhyphen"/>ning of his Maſter the precepts of Philoſophy, perceiveth in himſelfe ſome ſparckles of love to be kindled towards his Maſter, which notwith<g ref="char:EOLhyphen"/>ſtanding is not the end of Philoſophy. It is one thing to command the love of God, another thing to give occaſions to love him. Yea I will boldly ſay, that Theolo<g ref="char:EOLhyphen"/>gie is more contempla<g ref="char:EOLhyphen"/>tive then practique, ſee<g ref="char:EOLhyphen"/>ing that contemplation
+<pb n="25" facs="tcp:19255:16"/>is the ſcope of action; For by good workes wee aſpire vnto the beatifi<g ref="char:EOLhyphen"/>call viſion of God.</p>
+            <p>Theſe lets being re<g ref="char:EOLhyphen"/>moved, we will more at<g ref="char:EOLhyphen"/>tentively behold the face and habit of Theologie. Let this daughter of God come forth and appeare, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeed in a ſordid weed, drawing poverty with her for her companion, and beſprinckle with the bloud of many of her Diſ<g ref="char:EOLhyphen"/>ciples, but whoſe face is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efulgent with Celeſtiall rayes, and which tryum<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing over time, doth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndure for everlaſting.
+<pb n="26" facs="tcp:19255:17"/>which light that it may not enlighten the eyes of the ſpectators, <hi>Satan</hi> out of the bottomleſſe pit doth belch vp blacke globes of ſmoake, and gathers a thicke darke<g ref="char:EOLhyphen"/>neſſe of errours, and leaſt the true face of Theolo<g ref="char:EOLhyphen"/>gie ſhould be diſcerned he feigneth certaine appa<g ref="char:EOLunhyphen"/>ritions, and goblins, which countefeit the ti<g ref="char:EOLhyphen"/>tle, and image of Divi<g ref="char:EOLhyphen"/>nity; which with much applauſe he bringeth into the theatre, here enticing wth blandiſhmen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, there terrifying with threat<g ref="char:EOLhyphen"/>nings: &amp; oftentimes re<g ref="char:EOLhyphen"/>terating
+<pb n="27" facs="tcp:19255:17"/>that of his, <hi>I will give thee.</hi> But this daugh<g ref="char:EOLhyphen"/>ter of heaven faintly drawing breath, and long hidden vnder the buſhel, hath oftentimes broken her bonds, oftentimes remooved her obſtacles, and diſperſing all clouds hath often appeared on a ſudden, the Devill gna<g ref="char:EOLhyphen"/>ſhing at it, and her adver<g ref="char:EOLhyphen"/>ſaries repining.</p>
+            <p>Which indeed doth ſo farre excell all other ſci<g ref="char:EOLhyphen"/>ences, as heavenly things doe ſurpaſſe earthly, and divinity humanity. Inſo<g ref="char:EOLhyphen"/>much that all other ſcience is fallacious, and <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="30" facs="tcp:19255:18"/>faithfully (if this be faith) deviding the ſpoyle a<g ref="char:EOLhyphen"/>mongſt themſelves, which indeed is not juſtice, but equality.</p>
+            <p>But if thou conſider the original of arts and ſcien<g ref="char:EOLhyphen"/>ces, they haue their be<g ref="char:EOLhyphen"/>ginning from experience. For by many particular experiments the mind doth collect one thing u<g ref="char:EOLhyphen"/>niverſall. And of many univerſals appertaining to the ſame ſubject, and diſpoſed in a certaine or<g ref="char:EOLhyphen"/>der, is made up the body of any faculty, or ſcience. But if as men ſay <hi>Mnemo<g ref="char:EOLhyphen"/>ſyne</hi> (which ſignifies me<g ref="char:EOLhyphen"/>mory)
+<pb n="31" facs="tcp:19255:18"/>be the mother of the <hi>Muſes, experience</hi> muſt needs be their gra<g ref="char:cmbAbbrStroke">̄</g>d<g ref="char:EOLhyphen"/>mother, as being that which bringeth forth, and confirmeth the memory. But the inve<g ref="char:cmbAbbrStroke">̄</g>ters of every Art are much renowned. And as every one by ſome profitable inventi<g ref="char:EOLhyphen"/>on was beneficiall to ci<g ref="char:EOLhyphen"/>vill ſociety, ſo was he en<g ref="char:EOLhyphen"/>throned in heaven, and eſteemed for a God. Such an one amongſt the <hi>Egyp<g ref="char:EOLhyphen"/>tians</hi> was <hi>Oſyris</hi> the inven<g ref="char:EOLhyphen"/>ter of Husbandry. And <hi>the boy that ſhewed the vſe of the crooked Plow. Trip<g ref="char:EOLhyphen"/>tolemus</hi> amongſt the <hi>Gre<g ref="char:EOLhyphen"/>cians:</hi>
+               <pb n="32" facs="tcp:19255:19"/>and <hi>Dagon</hi> the God of <hi>Paleſtina,</hi> who by <hi>Euſe<g ref="char:EOLhyphen"/>bius</hi> in his firſt booke of <hi>Evangelicall Preparation, Chap.</hi> 11. is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as much as to ſay <hi>a God of corne,</hi> for <hi>Dagan</hi> among the <hi>He<g ref="char:EOLhyphen"/>brewes</hi> doth ſignifie bread-corne,</p>
+            <p>But <hi>Theologie</hi> did flow from God, and the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles were his writers, and Inſtru<g ref="char:EOLhyphen"/>ments of the holy Spirit. The Apoſtle bearing wit<g ref="char:EOLhyphen"/>neſſe in the 1 <hi>Cor.</hi> 2. Where he ſayes: <hi>We ſpeake wiſe<g ref="char:EOLhyphen"/>dome among them that are perfect; yet not the wiſe<g ref="char:EOLhyphen"/>dome
+<pb n="33" facs="tcp:19255:19"/>of this world, nor of the Princes of this world, that come to naught; but we ſpeake the wiſedome of God in a miſtery.</hi> For this is that fire which <hi>Promethe<g ref="char:EOLhyphen"/>us</hi> by touching the wheel of the Suns Chariot with his ſtaffe, brought downe vnto the Earth.</p>
+            <p>But theſe things will be more illuſtrious, if we make a compariſon be<g ref="char:EOLhyphen"/>tween Divinity and eve<g ref="char:EOLhyphen"/>ry other Science.</p>
+            <p>The firſt we meet with is Philoſophy, of which <hi>Cicero</hi> in his fifth <hi>Tuſcu<g ref="char:EOLhyphen"/>lane queſtion</hi> ſayes, That one day ſpent according
+<pb n="34" facs="tcp:19255:20"/>to the precepts of Philo<g ref="char:EOLhyphen"/>ſophy, is to be preferred wholly before immorta<g ref="char:EOLhyphen"/>lity. Hee could not have founded lowder, nor in a ſmall matter have vſed an higher ſpeech. But a<g ref="char:EOLhyphen"/>mongſt wiſe men he ſhall never winne beliefe. For thoſe things which Phi<g ref="char:EOLhyphen"/>loſophy ſtateth of the <hi>So<g ref="char:EOLhyphen"/>veraigne goodneſſe</hi> are ſo divers and repugnant, that they ſeeme not to conſiſt by <hi>nature,</hi> but <hi>o<g ref="char:EOLhyphen"/>pinion. Auguſtine</hi> in his 19. booke of the <hi>City of God, Chap.</hi> 1. recyteth out of <hi>M. Varr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 288. differing opinions of Philoſophers
+<pb n="35" facs="tcp:19255:20"/>concerning the <hi>chiefe good<g ref="char:EOLhyphen"/>neſſe.</hi> But if nothing cer<g ref="char:EOLhyphen"/>taine can be determined by Philoſophy concer<g ref="char:EOLhyphen"/>ning that which is the chiefe, and principall thing of all, you eaſily conjecture, what we may judg of the reſt. It is neceſ<g ref="char:EOLhyphen"/>ſary that he wavereth in the means, who faileth in the end; &amp; that the ſtrokes of the contention are not ſure, nor according to ayme, if there be no cer<g ref="char:EOLhyphen"/>taine ſcope or marke whereat to ſtrike.</p>
+            <p>Adde hereunto, that Phyloſophy doth by many meanes endeavour
+<pb n="36" facs="tcp:19255:21"/>to perfit the intellect, but <hi>Theologie</hi> with one one<g ref="char:EOLhyphen"/>ly, which is vnion with God. But multiplicity of meanes, which are not ſubordinate, is an evident token of imperfection.</p>
+            <p>Neither hath naturall Philoſophy any thing in it which may ſatisfie the appetite, becauſe man is borne to ſome thing more excellent then all nature.</p>
+            <p>And how languiſhing affections are ſtirred vp by Philoſophy from hence is apparent, becauſe there was never any hi<g ref="char:EOLhyphen"/>therto found, who would
+<pb n="37" facs="tcp:19255:21"/>vnder goe death for <hi>Pla<g ref="char:EOLhyphen"/>to's</hi> or <hi>Ariſtosles</hi> Philoſo<g ref="char:EOLhyphen"/>phy: but for true Theo<g ref="char:EOLhyphen"/>logie and ſincere faith in God, death hath not been onely expected, but de<g ref="char:EOLhyphen"/>ſired, and willingly met with, and to effuſe ones life for its ſake is reputed for gaine.</p>
+            <p>Moreover, as now the caſe ſtandeth, Philoſo<g ref="char:EOLhyphen"/>phy is almoſt reduced vnto Schooles, and they are very few who recall it to the common vſe and exerciſe of life. For it is all cumbred with briers, and is wholly buſied in tying indiſſoluble knots,
+<pb n="38" facs="tcp:19255:22"/>and vnweaving what it ſelfe hath woven, and of<g ref="char:EOLhyphen"/>fers us ſtony bread, which breaketh the teeth, and tyreth the wit with ſharpe and difficult tri<g ref="char:EOLhyphen"/>fles.</p>
+            <p>I omit that the old Chriſtian Church found Philoſophers moſt eager enemies to the doctrine of the Goſpell. <hi>Tertullian</hi> who calleth a Philoſo<g ref="char:EOLhyphen"/>pher, a <hi>creature of glory,</hi> doth alſo call Philoſo<g ref="char:EOLhyphen"/>phers the <hi>Patriarches</hi> of <hi>Heretiques.</hi>
+            </p>
+            <p>It is commonly known that precepts of vertue are not ſo much bor<g ref="char:EOLhyphen"/>rowed
+<pb n="39" facs="tcp:19255:22"/>from Philoſo<g ref="char:EOLhyphen"/>phers, as taken from them as vnjuſt poſſeſſors, that they may be converted vnto a better vſe. And they are compared vnto thoſe gold and ſilver veſ<g ref="char:EOLhyphen"/>ſels, which without hope of reſtitution, or intenti<g ref="char:EOLhyphen"/>on to reſtore, the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> borrowed of the <hi>E<g ref="char:EOLhyphen"/>gyptians,</hi> which afterward in adorning the Temple they conſecrated to God. But as that rich houſe<g ref="char:EOLhyphen"/>hold ſtuffe which was brought our of <hi>Egypt</hi> and placed in the Tabernacle was but of ſlight &amp; ſmall eſtimation, in reſpect of
+<pb n="40" facs="tcp:19255:23"/>the riches and ſplendor of <hi>Salomons</hi> temple, which all over did ſhine with Gold: ſo thoſe inſtructi<g ref="char:EOLhyphen"/>ons which Divines doe borrow from Heathens, are in no wiſe to be com<g ref="char:EOLhyphen"/>pared with the abun<g ref="char:EOLhyphen"/>dance, and the high value of ſacred precepts which are read in the holy Scriptures.</p>
+            <p>Adde that whileft the Philoſopher deriveth precepts of honeſty from nature, and bids us fol<g ref="char:EOLhyphen"/>low nature for our guide, and referres his docu<g ref="char:EOLhyphen"/>ments to good fame, or the commodity of hu<g ref="char:EOLhyphen"/>mane
+<pb n="41" facs="tcp:19255:23"/>Society, but not vnto the glory of God, nor deduceth from the love of Gods duties to<g ref="char:EOLhyphen"/>wards our Neighbour, hee onely ſhadoweth forth a few fading ima<g ref="char:EOLhyphen"/>ges of vertues, and ſubſti<g ref="char:EOLhyphen"/>tutes in the place of true and genuine vertue, cer<g ref="char:EOLhyphen"/>taine gay and reſplen<g ref="char:EOLhyphen"/>dent vices, counterfei<g ref="char:EOLhyphen"/>ting and belying the title of vertue.</p>
+            <p>But as for Medicine, and civill Law, there is no man of reaſon doth doubt, but that they are excellent gifts beſtowed by God on Man, for the
+<pb n="42" facs="tcp:19255:24"/>preſervation of the bo<g ref="char:EOLhyphen"/>dy, and the maintenance of humane ſociety. But what is their compari<g ref="char:EOLhyphen"/>ſon with <hi>Theology,</hi> Chriſt himſelfe ſheweth, ſaying <hi>Luke</hi> 12.23. <hi>The life is more then meat, and the bo<g ref="char:EOLhyphen"/>dy is more then rayment.</hi> Theſe are thoſe three kinds of <hi>goods,</hi> as of <hi>mind, body,</hi> and <hi>fortune. Theology</hi> takes care for the good of the mind: <hi>Medicine</hi> for the good of the body, which is the health: And <hi>civill Law</hi> is exerciſed in the goods of Fortune, rendring unto every one what is his owne.</p>
+            <pb n="43" facs="tcp:19255:24"/>
+            <p>Perchance ſome one will ſay, that Medicine doth inſtruct the mind in Morall vertue, in that it enjoyneth ſobriety. It may alſo be added, that Phyſitians and Chirur<g ref="char:EOLhyphen"/>gions doe teach men pa<g ref="char:EOLhyphen"/>tience whileſt they put them to paines. But it is moſt evident that ſobrie<g ref="char:EOLhyphen"/>ty is not preſcribed by the Phyſitian for hone<g ref="char:EOLhyphen"/>ſty, but for health. And truly the care of good health doth much more rightly appertaine to the Divine. For there are three moſt certaine pre<g ref="char:EOLhyphen"/>ſervatives of health, ſo<g ref="char:EOLhyphen"/>briety,
+<pb n="44" facs="tcp:19255:25"/>labour, tranquili<g ref="char:EOLhyphen"/>ty of mind. Theſe three doth <hi>Theologie</hi> take care for, in that it forbids to be luxurious; it reſtrai<g ref="char:EOLhyphen"/>neth luſt; it exhorts us to labor, and bringeth forth true hilarity, and tran<g ref="char:EOLhyphen"/>quility of the mind, by infuſing into it a perſwa<g ref="char:EOLhyphen"/>ſion of the love of GOD towards us, whereunto all ſleepy potions and ſtupefactive Medicines are not to be compared. Neither doth any thing procure ſo ſweet a ſleep, or ſo effectually diſpell all cares, as doth the Spi<g ref="char:EOLhyphen"/>rit of adoption giving te<g ref="char:EOLhyphen"/>ſtimony
+<pb n="45" facs="tcp:19255:25"/>to our hearts that wee are the Sons of GOD. But how uncertain is medicine, how often Phyſitians grope out their way in darkneſſe, and by officious dili<g ref="char:EOLhyphen"/>gence kill their patients, is made manifeſt by day<g ref="char:EOLhyphen"/>ly examples.</p>
+            <p>Wee have ſaid that the civill Law is practiſed in goods of fortune. For it is wholly buſied in this that every one ſhould re<g ref="char:EOLhyphen"/>ceive that which is his owae. What (thou wilt ſay) doth not Law in<g ref="char:EOLhyphen"/>ſtruct the mind in Iuſtice, which is the principall
+<pb n="46" facs="tcp:19255:26"/>of all vertues, and ought it not to bee reckoned a<g ref="char:EOLhyphen"/>mongſt the goods of for<g ref="char:EOLhyphen"/>tune? Did not <hi>Iuſtinian</hi> begin his <hi>Inſtitutions</hi> with the <hi>definition</hi> of Iuſtice? Truly whoſoever ſayes thus is not of my opini<g ref="char:EOLhyphen"/>on. Civill Law doth not impreſſe Iuſtice it ſelfe into the mind, which is an habit of the regulated will, but onely it gover<g ref="char:EOLhyphen"/>neth exterior actions, prohibiting violence, and recompencing dam<g ref="char:EOLhyphen"/>mages. Onely <hi>Theology</hi> gives Lawes to the affec<g ref="char:EOLhyphen"/>tions, and inſtilleth ho<g ref="char:EOLhyphen"/>neſty into the will, in
+<pb n="47" facs="tcp:19255:26"/>which the formall and <hi>eſſentiall</hi> nature of ver<g ref="char:EOLhyphen"/>tue doth conſiſt. For e<g ref="char:EOLhyphen"/>ven by a wicked man, and one that laboureth of in<g ref="char:EOLhyphen"/>ward vices, may the du<g ref="char:EOLhyphen"/>ties of a good Citizen be performed. He ſatisfieth the civill Law who deep<g ref="char:EOLhyphen"/>ly concealing his hatred with-holdeth his hand from the injury, being reſtrained by feare of the Lawes. Neither is vertue the end of ci<g ref="char:EOLhyphen"/>vill Lawes, but peace and concord. And truly they are infinitely miſtaken who ſuppoſe that the efficacy of civill Lawes
+<pb n="48" facs="tcp:19255:27"/>doth conſiſt in this that they are juſt. For a Law hath its authority not becauſe it is a Iuſt, but becauſe it is a Law, and a rule eſtabliſhed by him that hath power, yea men live peacefully under e<g ref="char:EOLhyphen"/>vill lawes, and miſerably under good ones. They live peacefully under wicked lawes when the Citizens do agree in the obſervation of them. They live miſerably un<g ref="char:EOLhyphen"/>der good lawes when the diſobedient Citizens doe contemne the autho<g ref="char:EOLhyphen"/>rity of the Law giver, &amp; the force of the lawes
+<pb n="49" facs="tcp:19255:27"/>doth lauguiſh. From hence it is that divers people doe live after di<g ref="char:EOLhyphen"/>vers Lawes. That by the Law of the <hi>twelve Tables</hi> it was lawfull for Credi<g ref="char:EOLhyphen"/>tors to cut in pieces the Debtour that was not a<g ref="char:EOLhyphen"/>ble to pay them. That by the ſame Lawes a father might thrice ſell his Son, and a Husband might kill his wife, if his wine did ſtincke, or if ſhe counter<g ref="char:EOLhyphen"/>feited Child-b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. That amongſt the <hi>Lacedemoni<g ref="char:EOLhyphen"/>ans</hi> theevery was permit<g ref="char:EOLhyphen"/>ted; and that in <hi>Cyprus</hi> Virgins got their dowry by the uſe of their bo<g ref="char:EOLhyphen"/>dies.
+<pb n="50" facs="tcp:19255:28"/>That amongſt the <hi>Calecut Indians</hi> that wife that was more beloved of her husband then the reſt, being gorgeouſly apparelled even to al<g ref="char:EOLhyphen"/>lurement, is led forth unto her Funerall, and burned alive with her huſ<g ref="char:EOLhyphen"/>band: that Kings are not to take to the<g ref="char:cmbAbbrStroke">̄</g>ſelves wives but firſt laine withall by their Prieſts which are called <hi>Bramins.</hi> That a<g ref="char:EOLhyphen"/>mong the <hi>Turkes Polyga my</hi> is lawfull that men goe to Market to be ſold as Cattell, and to drinke wine is a matter of con<g ref="char:EOLhyphen"/>ſcience. Of all which
+<pb n="51" facs="tcp:19255:28"/>things no one is obſer<g ref="char:EOLhyphen"/>ved amongſt us: ſo that it is evident that that Iu<g ref="char:EOLhyphen"/>ſtice, which is comman<g ref="char:EOLhyphen"/>ded in humane Lawes, is not ſo much a vertue, as a cuſtome, and that there<g ref="char:EOLhyphen"/>fore are things juſt, be<g ref="char:EOLhyphen"/>cauſe they are decreed; but not decreed, becauſe they are juſt; and laſtly, thoſe Lawes are juſt, which being founded upon nature, are conſen<g ref="char:EOLhyphen"/>taneous to the Law of God.</p>
+            <p>If any one doth object to the contrary thoſe in<g ref="char:EOLhyphen"/>tricate contentions of Di<g ref="char:EOLhyphen"/>vines, and that men in
+<pb n="52" facs="tcp:19255:29"/>matters of religion en<g ref="char:EOLhyphen"/>counter with moſt inve<g ref="char:EOLhyphen"/>terate hatred, we anſwer that it is not the fault of the faculty but of men, who <hi>ſeeke a knot in a bul<g ref="char:EOLhyphen"/>ruſh</hi> (as ſayes the <hi>Proverb</hi>) and abuſe the depravati<g ref="char:EOLhyphen"/>on of moſt certain things for their avarice and am<g ref="char:EOLhyphen"/>bition. He doth ill that attributeth the faults of artificers to their Arts, as if any one ſhould impute his blearedneſſe to the Sunne, or being ſtricken with ſudden blindneſſe, ſhould thinke that the Sun doth ſuffer an E<g ref="char:EOLhyphen"/>clypſe. But whoſoever
+<pb n="53" facs="tcp:19255:29"/>doth not obſtinately ſtick to prejudicate opinions, nor hath made his faith ſubject to his belly, nor enſlaved it to anothers will, he ſhall find in the holy Scripture many evi<g ref="char:EOLhyphen"/>dent ſentences, and nee<g ref="char:EOLhyphen"/>ding no interpretation which are abundantly ſufficient vnto ſalvation.</p>
+            <p>But whereas the nobi<g ref="char:EOLhyphen"/>lity of practique ſciences doth conſiſt in the nobi<g ref="char:EOLhyphen"/>lity of their end, and in the fitneſſe of meanes to attaine vnto this end, it cannot be ſpoken, how many degrees <hi>Theologie</hi> doth herein excell all o<g ref="char:EOLhyphen"/>ther
+<pb n="54" facs="tcp:19255:30"/>Arts and Sciences. For every Science doth propoſe unto it ſelfe ſome particular end, which is not extended to our whole life, much leſſe doth it reach unto thoſe things which enſue this mortall life. So <hi>Oe<g ref="char:EOLhyphen"/>conomy</hi> ſerves for the in<g ref="char:EOLhyphen"/>ſtruction of an Nouſe-holder; <hi>Politickes</hi> of a good Subject, and a good Prince; <hi>Tactickes</hi> for the well marſhalling of an Army. <hi>Aſtronomy</hi> mea<g ref="char:EOLhyphen"/>ſutes the motions of hea<g ref="char:EOLhyphen"/>venly bodies. Their num<g ref="char:EOLhyphen"/>ber, and diſtances. Only <hi>Theologie</hi> doth inſtruct a
+<pb n="55" facs="tcp:19255:30"/>man as he is a man: and co<g ref="char:cmbAbbrStroke">̄</g>prchendeth the whole life of man: and exten<g ref="char:EOLhyphen"/>ding its care bey ond the bounds of nature, is ſol<g ref="char:EOLhyphen"/>licitous for the life to come. But men being prepoſterouſly wiſe, and adicted to preſent things doe deliberate of the ſe<g ref="char:EOLhyphen"/>verall portions of their lives, and have the man<g ref="char:EOLhyphen"/>ner of the whole diſor<g ref="char:EOLhyphen"/>dered, and fayle of their univerſall end. From whence it comes to paſſe that by many things pru<g ref="char:EOLhyphen"/>dently provided for there amounteth one ge<g ref="char:EOLhyphen"/>nerall imprudence, whilſt
+<pb n="56" facs="tcp:19255:31"/>they endeavor to abound in good things, when themſelves are evill. Onely <hi>Theologie</hi> deſig<g ref="char:EOLhyphen"/>neth the laſt end, which is union with God, and ſupplying fit means ther<g ref="char:EOLhyphen"/>unto, it layeth open a way which was never trod<g ref="char:EOLhyphen"/>den by any humane wiſe<g ref="char:EOLhyphen"/>dome. It onely reſtoreth the Image of GOD in Man which was almoſt defaced. It onely poyn<g ref="char:EOLhyphen"/>teth out the way unto ſalvation. It alone teach<g ref="char:EOLhyphen"/>eth us to live as in the ſight of God, by whom the coverts of the darkeſt hypocriſie are moſt
+<pb n="57" facs="tcp:19255:31"/>clearely ſeene through: before whoſe tribunall are admitted no excepti<g ref="char:EOLhyphen"/>ons, nor procraſtinati<g ref="char:EOLhyphen"/>ons, nor eſcape by idle excuſes. <hi>Theologie</hi> in<g ref="char:EOLhyphen"/>ſtructeth the heart with holy meditations, repreſ<g ref="char:EOLhyphen"/>ſeth anger, bridleth the appetite, deteſteth fraud and lying, by the feare of God expelleth all feare of men, by the more ve<g ref="char:EOLhyphen"/>hement affection of the mind ſubduing, and as it were ſwallowing up all inferiour perturbations. And it ſo elevateth the ſoule above the body; that it becomes a candi<g ref="char:EOLhyphen"/>date
+<pb n="58" facs="tcp:19255:32"/>of Divinity, and be<g ref="char:EOLhyphen"/>gins to live an heavenly life in this mortall body. For whereas the ſoule is united with the body in a two-fold bond, where<g ref="char:EOLhyphen"/>of the one is naturall the other voluntary, <hi>Theology</hi> either looſeth or cutteth off the voluntary, ſo long as by the Law of nature, or the will of God, a na<g ref="char:EOLhyphen"/>turall diſſolution is ex<g ref="char:EOLhyphen"/>pected. That J may not hold you long. I eſteeme that man truly a Divine who is a Divine not only in his word but in his life. <hi>Cicero</hi> defined an O<g ref="char:EOLhyphen"/>rator: <hi>A good man skilfull
+<pb n="59" facs="tcp:19255:32"/>in Ornaments of language.</hi> But we more rightly de<g ref="char:EOLhyphen"/>fine a Theologer a good man skilfull in divine things. For (as ſaye the Apoſtle) 1 <hi>Cor.</hi> 4. <hi>The Kingdome of God doth not conſiſt in word, but in ver<g ref="char:EOLhyphen"/>tue.</hi> This truly is a great praiſe of Theology, and a remarkeable perogative, that whereas there are but few Phyſitians a<g ref="char:EOLhyphen"/>mong common people, and few who are verſed in the Lawes, onely The<g ref="char:EOLhyphen"/>ology doth forme and inſtruct every common man: and in the Amphi<g ref="char:EOLhyphen"/>theater of this life ſits
+<pb n="60" facs="tcp:19255:33"/>not onely amongſt Sena<g ref="char:EOLhyphen"/>tors, and noble perſona<g ref="char:EOLhyphen"/>ges or amongſt the four<g ref="char:EOLhyphen"/>teen orders; but is alſo extended to the very ut<g ref="char:EOLhyphen"/>moſt ſcaffold, and the meaner ſort of people.</p>
+            <p>Wee will alſo ſpeake ſomewhat of the Anti<g ref="char:EOLhyphen"/>quity of <hi>Theologie,</hi> for that alſo doth much con<g ref="char:EOLhyphen"/>duce unto its praiſe. It is delight to contemplate the venerable Antiquity of this ſacred Diſcipline.</p>
+            <q>
+               <l>Where in much ancient hoa<g ref="char:EOLhyphen"/>rineſſe is ſeene.</l>
+               <l>But ſuch old age as is both freſh and greene.</l>
+            </q>
+            <pb n="61" facs="tcp:19255:33"/>
+            <p>We are wont to won<g ref="char:EOLhyphen"/>der at the <hi>Pyramids</hi> of <hi>Egypt,</hi> being the moſt an<g ref="char:EOLhyphen"/>cient ſtructure in the whole world. And thoſe raw Schollers who are called <hi>Philologers</hi> doe with great labour ſearch after the old inſcriptions of Tombes, Coines eaten and worne out, and Words which are moul<g ref="char:EOLhyphen"/>dy, &amp; obſolete with age, and preſerve them as pre<g ref="char:EOLhyphen"/>cious treaſuries. But how late and freſh are theſe things, yea how fri<g ref="char:EOLhyphen"/>volous are they in reſpect of the reverend age of <hi>Theologie,</hi> which doth al<g ref="char:EOLhyphen"/>moſt
+<pb n="62" facs="tcp:19255:34"/>challenge the Sunne in Antiquity, and deri<g ref="char:EOLhyphen"/>veth its originall from the infancy of the world, as being the Daughter of <hi>the ancient of Dayes,</hi> and from her fathers boſome ſent downe unto the Earth?</p>
+            <p>But if any conteſt in antiquity of bookes and letters, the <hi>Greekes</hi> are re<g ref="char:EOLhyphen"/>puted to be the Princes of all learning, and <hi>Greece the mother of Arts,</hi> and the moſt ancient ingroſſer of wiſedome. But firſt of all <hi>Cadmus</hi> brought the let<g ref="char:EOLhyphen"/>ters into <hi>Greece</hi> out of <hi>Phoeniciae</hi> which is neere
+<pb n="63" facs="tcp:19255:34"/>bordering on <hi>Iudea,</hi> and anciently did vſe the <hi>He<g ref="char:EOLhyphen"/>brew idiome.</hi> Which the <hi>Greeke</hi> Characters doe make manifeſt, being not much vnlike to thoſe a<g ref="char:EOLhyphen"/>mongſt the ancient <hi>Sama<g ref="char:EOLhyphen"/>ritanes,</hi> and the names and order of the <hi>Greeke</hi> alpha<g ref="char:EOLhyphen"/>bet but little differing from the <hi>Hebrew.</hi> And alſo the name of <hi>Cadmus,</hi> which ſignifieth <hi>a man of the Eaſt.</hi>
+            </p>
+            <p>
+               <hi>Homer</hi> the moſt anci<g ref="char:EOLhyphen"/>ent of the <hi>Greeke</hi> authors that is extant, was after <hi>Moſes</hi> ſixe hundred and odde yeares. <hi>Moſes</hi> was five hundred and fifty
+<pb n="64" facs="tcp:19255:35"/>yeares before <hi>David,</hi> in whoſe age notwithſtan<g ref="char:EOLhyphen"/>ding the <hi>Grecians</hi> did fetch both their food and the oracles of their God from the Oake and Wal<g ref="char:EOLhyphen"/>nut tree. From whence <hi>juglans</hi> was as much as to ſay, <hi>Iovis glans.</hi>
+            </p>
+            <p>The firſt amongſt the <hi>Greekes</hi> renowned for wiſedome were the ſea<g ref="char:EOLhyphen"/>ven Wiſe men. But their age was in the time of <hi>Cy<g ref="char:EOLhyphen"/>rus, Cambyſes,</hi> and <hi>Darius,</hi> which was the age of <hi>Za<g ref="char:EOLhyphen"/>charias</hi> and <hi>Aggai,</hi> the la<g ref="char:EOLhyphen"/>teſt of the Prophets.</p>
+            <p>We can alſo prove by ſixe hundred examples,
+<pb n="65" facs="tcp:19255:35"/>that the <hi>Grecians</hi> were Schollers vnto the <hi>He<g ref="char:EOLhyphen"/>brewes,</hi> &amp; that they drew out of the Theologie of the <hi>Hebrewes,</hi> whatſoever is contained in their Phi<g ref="char:EOLhyphen"/>loſophers, or their Poets co<g ref="char:cmbAbbrStroke">̄</g>cerning divine things, agreeable to the truth: but theſe things are ſo cor<g ref="char:EOLhyphen"/>rupted by the craft of the Devill, that to find out ſome ſmall particles of Gold, a whole heape of dung is to be remoo<g ref="char:EOLhyphen"/>ved.</p>
+            <p n="1">I. I will take my be<g ref="char:EOLhyphen"/>ginning fro<g ref="char:cmbAbbrStroke">̄</g> thoſe names of God, which are attri<g ref="char:EOLhyphen"/>buted to him in Scrip<g ref="char:EOLhyphen"/>ture.
+<pb n="66" facs="tcp:19255:36"/>In the old Teſtament the name of JEHOVA is moſt frequent: and God calleth himſelfe by this name, <hi>Exod.</hi> 3.6. From this name it is evident-that the name of <hi>Iove</hi> a<g ref="char:EOLhyphen"/>mongſt the <hi>Greoians</hi> was deduced. There is extant in <hi>Enſebius</hi> his 10. booke of <hi>Evangelicall preparati<g ref="char:EOLhyphen"/>on</hi> a fragment of <hi>Porphy<g ref="char:EOLhyphen"/>ry</hi> a moſt cruell enemy vnto Chriſtians, citing a place of <hi>Sanchoniata Beri<g ref="char:EOLhyphen"/>tius</hi> a moſt ancient Au<g ref="char:EOLhyphen"/>thor, that writ before the time of the <hi>Trojan</hi> warres; where hee ſayes, that hee received his <hi>Commen<g ref="char:EOLhyphen"/>taries,</hi>
+               <pb n="67" facs="tcp:19255:36"/>from <hi>Ierombaall</hi> a Prieſt of the GOD <hi>Iove,</hi> which name is not much vnlike to the name JEHOVA. And this <hi>Be<g ref="char:EOLhyphen"/>ritius</hi> was of <hi>Phoeniciae</hi> which is adjacent to <hi>Iu<g ref="char:EOLhyphen"/>dea.</hi> Adde hereunto that <hi>Diodorus Siculus</hi> in the 1. booke of his <hi>Hiſtor. Library</hi> ſayes, that the God of <hi>Moſes</hi> was called IAΩ.</p>
+            <p n="2">II. But even God him<g ref="char:EOLhyphen"/>ſelfe giveth himſelfe this name. <hi>I am,</hi> or <hi>he who is,</hi> as if in compariſon with God other things had no being. Which learning <hi>Plato</hi> following, calleth
+<pb n="68" facs="tcp:19255:37"/>God <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>him that hath being.</hi> Whoſe words are cited by <hi>Euſebius</hi> in the 11. of his <hi>Evangelicall Preparat. Cap.</hi> 8. out of his bookes of the Lawes where <hi>Plato</hi> ſets downe two things, the one <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>which alwayes is &amp; never is made,</hi> to wit, <hi>God</hi> the other, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>which alwayes is made, but never is:</hi> to wit Time, whoſe parts paſt are not; that which is to come is not yet; but that which is preſent is not time but a fleeting moment. Wher<g ref="char:EOLhyphen"/>upon <hi>Numenius</hi> a <hi>Pythage<g ref="char:EOLhyphen"/>rean</hi>
+               <pb n="69" facs="tcp:19255:37"/>diſcourſeth many things excellently in the ſame <hi>Euſebius. Lib.</hi> 11. <hi>Cap.</hi> 10.</p>
+            <p n="3">III. In the Porch of the Temple at <hi>Delphos,</hi> was inſcribed in capitall letters of Gold this word <hi>El</hi> which with us is <hi>thou art,</hi> with this title of praiſe would ſome wiſe man have God to be il<g ref="char:EOLhyphen"/>luſtrated, as if he alone had exiſtence. Vpon which word <hi>Plutarch</hi> hath written a Booke, where amongſt many other admirable things of Gods eternall immu<g ref="char:EOLhyphen"/>tability, hee hath theſe
+<pb n="70" facs="tcp:19255:38"/>words moſt remarkeable and divine<g ref="char:punc">▪</g> God (ſayes he) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Being one doth in one inſtant make compleat his Eternity</hi> Which words being drawne out of the ſecrets of more ſublime Divinity, <hi>Plurarch</hi> being a man moſt ignorant in divine things did not under<g ref="char:EOLhyphen"/>ſtand, buthad culled ſome where elſe and inſerted in his worke.</p>
+            <p n="4">IV. The name of <hi>A<g ref="char:EOLhyphen"/>donai</hi> is alſo very fre<g ref="char:EOLhyphen"/>quent in the Scripture, &amp; it ſignifies <hi>Lord,</hi> which name I ſee to be uſed alſo
+<pb n="71" facs="tcp:19255:38"/>by <hi>Greeke</hi> Authors; for <hi>Father Liber,</hi> the Sonne of <hi>Iupiter Belus</hi> who raig<g ref="char:EOLhyphen"/>ned very farre in the <hi>Eaſt</hi> is by Poets called <hi>Edone<g ref="char:EOLhyphen"/>us. Hor. Carm. Lib. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Non ego ſanius bacchabor E<g ref="char:EOLhyphen"/>donis.</hi> And in <hi>Euſchius</hi> his 14. Booke of <hi>Evangelicall Preparat. Cap.</hi> 14. Wee have Verſes of <hi>Empedo<g ref="char:EOLhyphen"/>cles</hi> a moſt ancient Poet, in which <hi>Edoneus</hi> is rela<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to be one of the prime principles, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp;c. lupiter, life bringing Iuno, and Edoneus.</hi>
+            </p>
+            <p>And the <hi>Paramou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Venus</hi> of <hi>Syria</hi> who is called <hi>Aſtarte</hi> was named
+<pb n="70" facs="tcp:19255:39"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="71" facs="tcp:19255:39"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="70" facs="tcp:19255:40" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="71" facs="tcp:19255:40" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="72" facs="tcp:19255:41"/>
+               <hi>Adonis,</hi> that is <hi>Lord.</hi>
+            </p>
+            <p n="5">v. The Scripture ſayes, that the Devill being pre<g ref="char:EOLhyphen"/>cipitated and excluded from heaven brought diſcord into the Earth. This hath <hi>Homer</hi> deſcri<g ref="char:EOLhyphen"/>bed in moſt elegant ver<g ref="char:EOLhyphen"/>ſes, which was firſt ob<g ref="char:EOLhyphen"/>ſerved by <hi>Iuſtine Martyr,</hi> in his exhortation to the <hi>Greekes.</hi> There <hi>Homer</hi> re<g ref="char:EOLhyphen"/>lateth that <hi>Iupiter</hi> caught <hi>Ate,</hi> that is <hi>the Goddeſſe of revenge and diſcord</hi> by the haire, and caſt her downe from Heaven, withall ſwearing, that it ſhould be for ever inter<g ref="char:EOLhyphen"/>dicted for her to come
+<pb n="73" facs="tcp:19255:41"/>thither againe. Forth<g ref="char:EOLhyphen"/>with hee addeth</p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</l>
+               <l>This ſaid, he her from the bright Heaven did throw,</l>
+               <l>And ſhee ſoone came into mens workes below.</l>
+            </q>
+            <p n="6">VI. <hi>Iuſtine Martyr</hi> in his Exhortation to the <hi>Greekes,</hi> and <hi>Euſebius</hi> in the 9. Booke of <hi>Prepara<g ref="char:EOLunhyphen"/>tion</hi> doe ſpeake of an O<g ref="char:EOLunhyphen"/>racle of <hi>Apollos</hi> who being demanded what men are truly wiſe, made anſwere.</p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</l>
+               <l>The Hebrewes and Chaldeans are</l>
+               <pb n="74" facs="tcp:19255:42"/>
+               <l>The men true wiſedome doth adorne</l>
+               <l>Who for their God doth ſerve and ſeare</l>
+               <l>A King that of himſelfe was borne.</l>
+            </q>
+            <p n="7">VII. But we will run over the moſt principall Chapters of the <hi>Moſaical</hi> Hiſtory, for we ſhall find ſome evident foot-ſteps thereof in the Bookes of the Heathen. <hi>In the begin<g ref="char:EOLhyphen"/>ning</hi> (ſayes <hi>Moſes</hi>) <hi>God made the Heaven and the Earth, and the Earth was without forme and void.</hi> The <hi>Ceptuagint</hi> tranſlate it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="75" facs="tcp:19255:42"/>that <hi>is inviſible</hi> and <hi>with<g ref="char:EOLhyphen"/>out order.</hi> This is that <hi>Chaos</hi> of <hi>Hefied.</hi> of which <hi>Ovid</hi> ſpeaketh much in the beginning of his <hi>Me<g ref="char:EOLhyphen"/>tamorphoſis,</hi> where he cals it a <hi>rude and indiſpoſed maſſe, &amp;c.</hi>
+            </p>
+            <p n="8">VIII. <hi>Moſes</hi> goes for<g ref="char:EOLhyphen"/>ward and darkneſſe were upon the face of the deepe, and God ſaid; <hi>Let there bee light.</hi> This is the very ſelfe-ſame which <hi>Heſiod</hi> ſayes in his <hi>Theo<g ref="char:EOLhyphen"/>gonia.</hi> The <hi>firſt of all was Chaos,</hi> and a little after?</p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</l>
+               <l>Of Chaos Erebus, and night were borne;</l>
+               <pb n="76" facs="tcp:19255:43"/>
+               <l>Of Night faire Æther, and the beautious morne.</l>
+            </q>
+            <p>Hee could not more plainly ſay, that darknes did over ſpread the earth, and that darkneſſe was before light, and that light was brought forth of darkneſſe.</p>
+            <p n="9">IX. The Creation of Man out of the clay, or duſt tempered with wa<g ref="char:EOLhyphen"/>ter, was not unknowne to <hi>Heathens. Hor. Carm.</hi> 1. b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oke. 3 <hi>Ode.</hi> Calleth the firſt man <hi>Lutum princeps,</hi> that is, <hi>the firſt Clay. Iuve<g ref="char:EOLhyphen"/>nall</hi> in his 6 Satyr of the firſt men, ſayes; that be<g ref="char:EOLhyphen"/>ing
+<pb n="77" facs="tcp:19255:43"/>compoſed of Clay they had no Parents from whence <hi>homo</hi> a man is <hi>ab humo</hi> from the Ground. And the firſt men being borne of the Earth, and tranſported no whether elſe, were called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>aborigines,</hi> that is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen borne and bred in the ſame Earth; <hi>Heſiod</hi> in his <hi>workes</hi> ſayes, that <hi>Iu<g ref="char:EOLhyphen"/>piter</hi> bade <hi>Vulcane:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>temper earth with water, and give them a humane voice.</hi>
+            </p>
+            <p n="10">X. But the Creation of the woman, out of a por<g ref="char:EOLhyphen"/>tion cut off from the bo<g ref="char:EOLhyphen"/>dy of the man, <hi>Plato</hi> de<g ref="char:EOLhyphen"/>ſcribeth
+<pb n="78" facs="tcp:19255:44"/>about the end of his <hi>Banquet.</hi> H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e relateth that at the firſt a man had foure feet, and ſo many armes: but when by rea<g ref="char:EOLhyphen"/>ſon of his ſtrength hee grew inſolent towards God, he cut him into two parts, and of one man made two, who had but two feet.</p>
+            <p n="11">XI. As for the Garden of the <hi>Heſperides,</hi> ſo much famed in the Verſes of Poets, and the golden Apples therein, and the Serpent keeper of the Apples, they are plainly an imitation of the Hiſto<g ref="char:EOLhyphen"/>ry of the Garden of <hi>He<g ref="char:EOLhyphen"/>den,</hi>
+               <pb n="79" facs="tcp:19255:44"/>where the Apples were forbidden to man, and the Serpent came unto <hi>Eve.</hi>
+            </p>
+            <p n="12">XII. But that the <hi>Hea<g ref="char:EOLhyphen"/>thens</hi> had heard ſomwhat of the Sanctification of the Seventh day, is made manifeſt out of <hi>Heſiod.</hi> Who ſayes:</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</p>
+               <p>The firſt new Moone and the fourth and ſeventh day were holy, &amp;c.</p>
+            </q>
+            <p n="13">XIII. And what was the eſtate, and happineſſe of man before the fall, <hi>Plato</hi> doth copiouſly re<g ref="char:EOLhyphen"/>cite in his <hi>Polit. Then</hi> (ſayes he) <hi>there were no
+<pb n="80" facs="tcp:19255:45"/>ravenous Creatures, God</hi> was then the <hi>paſtor and keeper of men, they lived by the fruits which the Earth brought forth of its owne accord, naked and without houſes did they live in the open Ayre, and had confe<g ref="char:EOLhyphen"/>rence with Beaſts.</hi> For <hi>Pla<g ref="char:EOLhyphen"/>to</hi> had heard ſpoken of the talke betweene <hi>Eve</hi> and the Serpent. Neither is it doubtfull but that from thence were <hi>Æſops</hi> Fables derived, where are brought in Beaſts diſ<g ref="char:EOLhyphen"/>courſing with men.</p>
+            <p n="14">xiv. That men fell from his eſtate of happi<g ref="char:EOLhyphen"/>neſſe becauſe hee gave
+<pb n="81" facs="tcp:19255:45"/>truſt unto the woman, is expreſſed by <hi>Heſiod.</hi> Re<g ref="char:EOLhyphen"/>lating that to the firſt man whom he calleth <hi>E<g ref="char:EOLhyphen"/>pimetheus</hi> were given all good things in cuſtody, ſhut up in one great Veſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, but that God gave to <hi>Epimetheus</hi> a Woman, whom he called <hi>Pandora,</hi> who by opening the veſ<g ref="char:EOLhyphen"/>ſell, was the cauſe that all thoſe bleſſings flew away unto Heaven: Notwith<g ref="char:EOLhyphen"/>ſtanding <hi>Hope</hi> remained in the mouth of the Veſ<g ref="char:EOLhyphen"/>ſell; which hope, what elſe is it, but that promiſe which was made unto <hi>A<g ref="char:EOLhyphen"/>dam,</hi> concerning the ſeed,
+<pb n="82" facs="tcp:19255:46"/>which ſhould bruiſe the head of the Serpent?</p>
+            <p n="15">xv. But when the ten<g ref="char:EOLhyphen"/>tation, whereby Satan in the ſhape of a Serpent aſ<g ref="char:EOLhyphen"/>ſailed <hi>Eve,</hi> ſucceeded with him according to his intention, the curſed Devill applauding him<g ref="char:EOLhyphen"/>ſelfe for this miſchiefe, would be adored in the ſhape of a Serpent-In this figure was hee worſhip<g ref="char:EOLhyphen"/>ped at <hi>Epidaurum,</hi> from whence the ſame Religi<g ref="char:EOLunhyphen"/>on was tranſported to <hi>Rome.</hi> Read <hi>Ariſtophanes</hi> his <hi>Plutus, Lucians Pſeu<g ref="char:EOLhyphen"/>domantis,</hi> and <hi>Valerius Maximus, Lib.</hi> 1. <hi>Cap.</hi> 8,
+<pb n="83" facs="tcp:19255:46"/>§. 2. <hi>O vid Metamorph. Lib.</hi> 15. <hi>Fab.</hi> 50.</p>
+            <p n="16">xvi. Poets doe faine that the age of <hi>Iupiter</hi> ſucceded the golden age which paſt away under <hi>Saturne.</hi> That this <hi>Iove</hi> was <hi>Cain</hi> whoſe domini<g ref="char:EOLhyphen"/>ons ſtretched farre upon the face of the earth, and who was the firſt that built a City, is gathered by many manifeſt tokens, For this <hi>Cain</hi> brought trouble upon his Father, and tooke his Siſter to wife, which is reported, of <hi>Iupiter,</hi> &amp;c. <hi>Virg. Æ<g ref="char:EOLhyphen"/>neid.</hi> 1. <hi>Aſt ego que divum.</hi>
+            </p>
+            <pb n="84" facs="tcp:19255:47"/>
+            <q>
+               <l>But I who walke Queene of the Gods above,</l>
+               <l>And am both wife, and Siſter vnto Iove.</l>
+            </q>
+            <p>And whereas Poets ſay, that <hi>Vulcane</hi> the inventer of Iron-workes was deſ<g ref="char:EOLhyphen"/>cended from <hi>Iupiter. Mo<g ref="char:EOLhyphen"/>ſes</hi> affirmeth that <hi>Tuval-Cain</hi> was a Grand-child unto <hi>Cain</hi> (the name not much difſering) and the inventour of the Black-Smiths craft. Which <hi>Vulcane</hi> they ſay made Thunderbolts for his Fa<g ref="char:EOLhyphen"/>ther <hi>Iupiter,</hi> becauſe <hi>Tu<g ref="char:EOLhyphen"/>val-Cain</hi> made weapons for his father <hi>Cain,</hi> wher<g ref="char:EOLhyphen"/>by
+<pb n="85" facs="tcp:19255:47"/>he became terrible to his enemies.</p>
+            <p n="17">xvii. Of the Floud there are wonderfull things reported among the <hi>Heathens,</hi> not contra<g ref="char:EOLhyphen"/>ry to thoſe things which are related in the ſacred Scripture: But that the <hi>Grecians</hi> doe confound that inundation in the time of King <hi>Deucalian</hi> which overflowed no parts but <hi>Theſſaly,</hi> with univerſall inundation which is called the <hi>Ogy<g ref="char:EOLhyphen"/>gian deluge. Ioſephus</hi> in the 1. Booke of <hi>Originals. cap.</hi> 4. ſayes, that the place where the Arke ſetled is
+<pb n="86" facs="tcp:19255:48"/>called by the <hi>Armenians</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (the Mount) and that in his time their could be ſhewen ſome re<g ref="char:EOLhyphen"/>liques of the Arke. In the ſame place hee citeth one <hi>Beroſus a Chaldean,</hi> avou<g ref="char:EOLhyphen"/>ching that ſome portions of this Veſſell may bee ſeene on the Mountaine of the <hi>Cordyi</hi> in <hi>Armenia,</hi> and that Travellers doe ſcrape from them a clammy bituminous ſub<g ref="char:EOLhyphen"/>ſtance <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(to divert from evills which may betide them.)</hi> In the ſame place he alſo citeth <hi>Ierome</hi> an <hi>Egyptian</hi> who writ <hi>Commentaries</hi>
+               <pb n="87" facs="tcp:19255:48"/>of the Antiquities of <hi>Phoenicia</hi> and <hi>Mnaſeas,</hi> and <hi>Nicholas Damaſcen</hi> who writ of the <hi>Deluge</hi> almoſt conſonantly to the holy Scripture. This <hi>Nicholas</hi> relateth in the ninety fixt booke of his Hiſtories, that there is above <hi>Mini<g ref="char:EOLhyphen"/>as,</hi> a high Mountaine of <hi>Armenia</hi> which is called <hi>Baris,</hi> into which many fled for feare of the floud, and that one carryed in an Arke arrived to the very top of the Moun<g ref="char:EOLhyphen"/>taine, and that ſome re<g ref="char:EOLhyphen"/>liques of the wood of the Arke are there ſtill reſer<g ref="char:EOLhyphen"/>ved: and laſtly that it is
+<pb n="88" facs="tcp:19255:49"/>likely that this is the ſame man whom <hi>Moſes</hi> the Law-giver of the <hi>He<g ref="char:EOLhyphen"/>brewes</hi> doth ſpeake of. It is a thing remarkable that an <hi>Heathen</hi> man ſeateth <hi>Minias</hi> in <hi>Armenia,</hi> for <hi>Ieremy</hi> alſo. <hi>Cap.</hi> 51.5.7. Ioyneth <hi>Minu</hi> and <hi>Ara<g ref="char:EOLhyphen"/>rat</hi> as neare borderers.</p>
+            <p n="18">xviii. Yea and <hi>Abyde<g ref="char:EOLhyphen"/>nus,</hi> who writ Medicinall treatiſes in <hi>Arabick,</hi> makes mention of Birds which <hi>Seiſitris</hi> (ſo doth hee call <hi>Noah</hi>) ſent out of his Ark, and received them again, with hope of good ſucceſſe, when he obſer<g ref="char:EOLhyphen"/>ved the feete of one of
+<pb n="89" facs="tcp:19255:49"/>them to bee dirty. You have the place entire in <hi>Euſebius</hi> his 9. Booke of <hi>Evangelicall Prepera<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p n="19">xix. The ſame Author in the ſame Booke doth ſince <hi>Ioſephus</hi> alleage ma<g ref="char:EOLhyphen"/>ny Teſtimonies of <hi>Hea<g ref="char:EOLhyphen"/>thens,</hi> who have affirmed, that men before the De<g ref="char:EOLhyphen"/>luge did live for the ſpace of a thouſand yeares.</p>
+            <p n="20">xx. And that two fac'd <hi>Ianus</hi> was none other but <hi>Noah,</hi> is made evident by his name. For <hi>Ianus</hi> is de<g ref="char:EOLhyphen"/>rived from <hi>Iaijn,</hi> which among the <hi>Hebrewes</hi> doth ſignifie wine, becauſe hee
+<pb n="90" facs="tcp:19255:50"/>was the inventor of Wine. And he is painted with a double face, one before and another behind, be<g ref="char:EOLhyphen"/>cauſe hee ſaw both Ages, the one before and the o<g ref="char:EOLhyphen"/>ther after the Flood.</p>
+            <p n="21">xxi. This <hi>Noah</hi> had a Sonne named <hi>Cham</hi> or <hi>Ham,</hi> who obtained <hi>E<g ref="char:EOLhyphen"/>gypt</hi> by lot, and <hi>Africa;</hi> where hee was worſhip<g ref="char:EOLhyphen"/>ped for a God, and hee is that God <hi>Hammon,</hi> whoſe Temple and Oracle were in <hi>Lybia,</hi> and he is painted with hornes by the ſame error that <hi>Moſes</hi> is com<g ref="char:EOLhyphen"/>monly painted with an horned forehead, that is
+<pb n="91" facs="tcp:19255:50"/>to ſay, by reaſon of the ignorance of the <hi>Hebrew</hi> and <hi>Syriack idiom,</hi> where<g ref="char:EOLhyphen"/>in the <hi>Beames of the Sunne</hi> are called <hi>hornes. Exod.</hi> 34.29. <hi>Abac.</hi> 3, 4. For the <hi>Africanes</hi> attributed unto him a head ſhooting forth rayes.</p>
+            <p n="22">xxii. And the ſame ig<g ref="char:EOLhyphen"/>norance gave occaſion of the fable of <hi>Bacchus</hi> drawne out of the thigh of <hi>Iupiter.</hi> For the <hi>Orien<g ref="char:EOLhyphen"/>tall</hi> people ſay that chil<g ref="char:EOLhyphen"/>dren come forth of the thigh of their father, as <hi>Exod. Cap.</hi> 1. <hi>ver.</hi> 5. <hi>Seven<g ref="char:EOLhyphen"/>ty ſoules are ſaid to have come out of the thigh of
+<pb n="92" facs="tcp:19255:51"/>Iacob.</hi> But <hi>Liber pater</hi> King of the <hi>Aſſyrians,</hi> who ex<g ref="char:EOLhyphen"/>tended his victories farre in the <hi>Eaſt,</hi> from whence alſo were Tygers adjoy<g ref="char:EOLhyphen"/>ned to his Chariot. But the <hi>Grecians</hi> whatſoever they heard of that Orien<g ref="char:EOLhyphen"/>call <hi>Liber</hi> transferred it to their <hi>Bacchus</hi> of <hi>Thebes</hi> a very drunken perſon.</p>
+            <p n="23">xxiii. But if <hi>Gramma<g ref="char:EOLhyphen"/>rians</hi> and <hi>Geographers</hi> had any taſt of the <hi>Hebrew</hi> tongue, they needed not ſo ſollicitouſly to have ſearched from whence the <hi>Erythrean</hi> Sea, that is the <hi>red Sea</hi> is ſo called, whe<g ref="char:EOLhyphen"/>ther from King <hi>Erytheus</hi>
+               <pb n="93" facs="tcp:19255:51"/>or from the red Sands, which are but dreams of ſicke men: whereas it is manifeſt that the <hi>Erythre<g ref="char:EOLhyphen"/>an,</hi> that is the red Sea, was ſo called, becauſe it run<g ref="char:EOLhyphen"/>neth coaſting upon <hi>Idu<g ref="char:EOLhyphen"/>mea,</hi> which word amongſt the <hi>Hebrewes</hi> and <hi>Idume<g ref="char:EOLhyphen"/>ans</hi> doth ſignifie <hi>Red.</hi>
+            </p>
+            <p n="24">xxiv. Neither is it doubtfull, but that <hi>Iape<g ref="char:EOLhyphen"/>tus,</hi> whom the <hi>Grecians</hi> report to be the moſt an<g ref="char:EOLhyphen"/>cient of men, was <hi>Iaphet</hi> the Sonne of <hi>Noah,</hi> from whom the <hi>Grecians</hi> had their <hi>Originall,</hi> and all the inhabitants of <hi>Europe,</hi> which is betokened by
+<pb n="94" facs="tcp:19255:52"/>the names of the Chil<g ref="char:EOLhyphen"/>dren of <hi>Iaphet,</hi> from whom the Nations of <hi>Europe</hi> were named, from <hi>Iavan</hi> the <hi>Ionians,</hi> from <hi>Meſech Moſchi,</hi> from <hi>Ti<g ref="char:EOLhyphen"/>ras</hi> the <hi>Thracians,</hi> from <hi>Go<g ref="char:EOLhyphen"/>mer</hi> the <hi>Cymnierians,</hi> from <hi>Aſcenas</hi> the <hi>Aſcanians,</hi> from <hi>Eliſca Hellones</hi> the <hi>Grecians,</hi> from <hi>Riphat</hi> the <hi>Ripheans,</hi> from <hi>Tarſus</hi> the <hi>Cilicians,</hi> whoſe <hi>Metropo<g ref="char:EOLhyphen"/>litane City</hi> is <hi>Tarſis,</hi> from <hi>Dodanim</hi> the <hi>Dodoneans,</hi> from <hi>Cittim</hi> the <hi>Macedo<g ref="char:EOLhyphen"/>nians</hi> and <hi>Theſſalians:</hi> for that theſe are <hi>Cittim</hi> is apparent in the <hi>Maccab. Cap.</hi> 1. <hi>ver.</hi> 1. Where <hi>A<g ref="char:EOLhyphen"/>lexander</hi>
+               <pb n="95" facs="tcp:19255:52"/>is ſaid to have come from the Country of <hi>Cittim,</hi> and paſſed unto <hi>Aſia.</hi>
+            </p>
+            <p n="25">xxv. And alſo the Gy<g ref="char:EOLhyphen"/>ants wars, and the ſetting of Mountain upon Moun<g ref="char:EOLhyphen"/>taine, which <hi>Iupiter</hi> caſt downe with his light<g ref="char:EOLhyphen"/>nings, what other are they but the building of <hi>Babell,</hi> which mad ſtruc<g ref="char:EOLhyphen"/>ture God overthrew by ſending a confuſion of Tongues amongſt them?</p>
+            <p n="26">xxvi. It is great de<g ref="char:EOLhyphen"/>light to obſerve the manifeſt impreſſions of ſacred Hiſtory in <hi>Herodo<g ref="char:EOLhyphen"/>tus</hi> his <hi>Enterpe.</hi> Hee ſayes
+<pb n="96" facs="tcp:19255:53"/>that the <hi>Egyptians</hi> were circumciſed in his time, and alſo the <hi>Phaenicians, Æthopians,</hi> and <hi>Cholchi<g ref="char:EOLhyphen"/>ans.</hi> To which Nations, how circumciſion was derived, it is an eaſie thing to know. For <hi>Iſmael</hi> was circumciſed and <hi>Eſau,</hi> whoſe of-ſpring peopled all <hi>Arabia</hi> and <hi>Idumea:</hi> by whom circumciſion was brought into <hi>Ægypt,</hi> when the <hi>Arabians</hi> over<g ref="char:EOLhyphen"/>ran <hi>Ægypt</hi> which often<g ref="char:EOLhyphen"/>times they did. Now the <hi>Iewes</hi> are reckoned among the <hi>Syrians.</hi> But how cir<g ref="char:EOLhyphen"/>cumciſion was deduced unto the people of <hi>Col<g ref="char:EOLhyphen"/>chos,</hi>
+               <pb n="97" facs="tcp:19255:53"/>is gathered by no obſcure arguments, out of the fifth Chap. of the firſt booke of the <hi>Chroni<g ref="char:EOLhyphen"/>eles:</hi> For there <hi>Teglat Pil<g ref="char:EOLhyphen"/>heſar,</hi> King of the <hi>Aſſyri<g ref="char:EOLhyphen"/>ans</hi> is ſaid to have carried the <hi>Rubenites,</hi> and <hi>Gadites,</hi> and the halfe Tribe of <hi>Manaſſes</hi> unto <hi>Galach,</hi> and <hi>Habor;</hi> which are the <hi>Colchians,</hi> and <hi>Iberians,</hi> a<g ref="char:EOLhyphen"/>mongſt whom <hi>Herodotus</hi> admired that hee found circumciſion:</p>
+            <p n="27">xxvii. In the ſame book alſo we have the name of <hi>Phero</hi>-King of <hi>Egypt,</hi> and of King <hi>Neco</hi> who is men<g ref="char:EOLhyphen"/>tioned. 2 <hi>Chron.</hi> 35. <hi>ver.</hi>
+               <pb n="98" facs="tcp:19255:54"/>20. and of King <hi>Aprias</hi> who by <hi>Ieremy</hi> is called <hi>Ophra. Ier. cap.</hi> 44. <hi>ver.</hi> 30 and of <hi>Senacharib</hi> King of the <hi>Aſſyrians</hi> and <hi>Arabi<g ref="char:EOLhyphen"/>ans,</hi> who with a great power invaded <hi>Ægypt,</hi> whoſe Army was put to flight by the Mice of the field by eating off their bow-ſtrings, and the lea<g ref="char:EOLhyphen"/>thers of their ſhields.</p>
+            <p n="28">XXVIII. In the 2. of <hi>Chronicles Chap.</hi> 35. It is ſtoried, that King <hi>Ioſias</hi> raiſed a terrible Army a<g ref="char:EOLhyphen"/>gainſt <hi>Necho,</hi> King of <hi>Æ<g ref="char:EOLhyphen"/>gypt,</hi> who overcame <hi>Ioſi<g ref="char:EOLunhyphen"/>as,</hi> and ſlew him in the Plaine of <hi>Megiddo.</hi> And
+<pb n="99" facs="tcp:19255:54"/>this is the ſelfe-ſame which is related by <hi>Hero<g ref="char:EOLhyphen"/>dotus</hi> in his ſecond book, where he ſayes: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>&amp;c. Necos</hi> with an Army of foot en coun<g ref="char:EOLhyphen"/>tring with the <hi>Syrians</hi> o<g ref="char:EOLhyphen"/>verthrew them in <hi>Mag<g ref="char:EOLhyphen"/>dolo.</hi>
+            </p>
+            <p n="29">XXIX. But whereas Circumciſion amongſt the <hi>Hebrewes</hi> was done with a knife of ſtone, that is with a very ſharp flint, as we may ſee. <hi>Exod.</hi> 4. <hi>ver.</hi> 5. the <hi>Curetes</hi> who are alſo called <hi>Corybantes</hi> imi<g ref="char:EOLhyphen"/>tating this cuſtome, did with a very ſharpe flint cut off their Genitals. <hi>O<g ref="char:EOLhyphen"/>vid
+<pb n="100" facs="tcp:19255:55"/>Faſt.</hi> 4. <hi>Ille etiam ſaxo, &amp;c. Hee mangled his body with a ſharpe Stone.</hi>
+            </p>
+            <p>It is a very remarkable thing, that <hi>Numenius Py<g ref="char:EOLhyphen"/>thagoricus</hi> in his book <hi>De bono</hi> makes mention of <hi>Iannes</hi> and <hi>Iambres</hi> Magi<g ref="char:EOLhyphen"/>tians, who as St. <hi>Paul</hi> te<g ref="char:EOLhyphen"/>ſtifies. 2 <hi>Tim.</hi> 3. <hi>ver.</hi> 8. reſiſted <hi>Moſes.</hi> Theſe (as ſayes <hi>Numenius</hi>) did with<g ref="char:EOLhyphen"/>ſtand <hi>Muſcus</hi> (ſo calleth he <hi>Moſes</hi>) and by their wiſdome removed thoſe plagues which <hi>Moſes</hi> brought upon the <hi>Egyp<g ref="char:EOLhyphen"/>tians, Euſebius</hi> citing it in the 9. of his <hi>Prepar.</hi> This is that <hi>Numenius</hi> whoſe
+<pb n="101" facs="tcp:19255:55"/>
+               <hi>Apothegme</hi> is reported abroad, <hi>What elſe is Plato but Moſes ſpeaking Greeke?</hi> The Author <hi>Clemens Alexandrinus</hi> in his firſt booke of <hi>Tapiſtry.</hi>
+            </p>
+            <p n="31">xxxi. The prophecy of <hi>Nahum. Cap.</hi> 2. doth fore-tell the deſtruction of <hi>Nineve,</hi> which was the City where their Kings kept their abode, and the <hi>Metropolis</hi> of <hi>Aſſy<g ref="char:EOLhyphen"/>ria.</hi> But amongſt other things <hi>ver.</hi> 6. he prophe<g ref="char:EOLhyphen"/>ſies, that the Gates of the City ſhould bee opened by the breaking in of the River. This is the very thing, which <hi>Dioderus
+<pb n="102" facs="tcp:19255:56"/>Siculus</hi> in the 2. booke of his <hi>Hiſtor. Library</hi> doth more fully expreſſe. As that it was fore-told to <hi>Sardanapalus</hi> who then raigned in <hi>Nineve,</hi> and was narrowly beſieged, that <hi>Ninive</hi> ſhould then be overthrown when the River <hi>Tigris</hi> did wage warre againſt the City, and that not long after it happened, that the Gates and Walls thereof were broken downe, by the inundation of <hi>Tigris:</hi> which when <hi>Sardanapalus</hi> heard, he burned himſelfe with his Pallace. Where notwithſtanding <hi>Diodo<g ref="char:EOLhyphen"/>rus</hi>
+               <pb n="103" facs="tcp:19255:56"/>confoundeth <hi>Tigris</hi> with <hi>Euphrates</hi> uſing <hi>Ba<g ref="char:EOLhyphen"/>bilon</hi> inſtead of <hi>Ninive,</hi> as if <hi>Ninive</hi> were ſcitua<g ref="char:EOLhyphen"/>ted upon the River <hi>Eu<g ref="char:EOLhyphen"/>phrates.</hi>
+            </p>
+            <p n="32">xxxii. What need J to mention the prophe<g ref="char:EOLhyphen"/>cies of <hi>Sybilla Cumana,</hi> out of whoſe Verſes <hi>Virgill</hi> profeſſeth that hee tooke his fourth <hi>Eclogue?</hi> There the Poet fore-telleth the comming of a Virgin, and the nativity of a Child, that ſhould be the Sonne of God, who ſhould put away our offences, kill the Serpent, reduce the golden age, and ſhould
+<pb n="104" facs="tcp:19255:57"/>have a large dominion: which things indeed were written by him in the ſame time that Chriſt was borne.</p>
+            <p n="33">XXXIII. About fifty yeares before the Nati<g ref="char:EOLhyphen"/>vity of Chriſt, <hi>Cicero</hi> writ his bookes of divination, where hee ſpeaketh of a Prophecy that a King ſhould come whom wee muſt obey, if wee would be ſaved.</p>
+            <p n="34">XXXIV. <hi>Cornelius Taci<g ref="char:EOLhyphen"/>tus</hi> in the 5. booke of his Hiſtory, uttereth many things vainly concerning the <hi>Iewes,</hi> and their origi<g ref="char:EOLhyphen"/>nall, and misbecomming
+<pb n="105" facs="tcp:19255:57"/>ſo great a man, reports things of heare-ſay for certaine: Nor doth <hi>In<g ref="char:EOLhyphen"/>ſtino</hi> doe better in the 36. booke. But in <hi>Tacitus</hi> this is memorable: Hee ſayes there was a perſwaſion in many, that it was con<g ref="char:EOLhyphen"/>tained in the antient wri<g ref="char:EOLhyphen"/>tings of the Prieſts, that in that time it ſhould come to paſſe, that the Eaſt ſhould prevaile, and that thoſe that came from <hi>Iudea</hi> ſhould have the ſway and dominion, which <hi>Ambages</hi> foretold <hi>Veſpatian</hi> and <hi>Titus.</hi> For the prophane man apply<g ref="char:EOLhyphen"/>ed prophecies of Chriſt
+<pb n="106" facs="tcp:19255:58"/>unto <hi>Veſpatian.</hi>
+            </p>
+            <p n="35">XXXV. But whence was that drawne but out of the true and ancient <hi>Theo<g ref="char:EOLhyphen"/>logie</hi> which <hi>Plato</hi> doth inculcate in ſo many pla<g ref="char:EOLhyphen"/>ces of the puniſhment of the ſoule, and of the judg<g ref="char:EOLhyphen"/>ment of God? And that which <hi>Ovid</hi> ſingeth of the laſt burning of the World. <hi>Metamorph.</hi> 1. <hi>Eſſe quoque in fatis, &amp;c.</hi>
+            </p>
+            <q>
+               <l>He call<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to mind, it doom'd in fate doth ſtand,</l>
+               <l>That time ſhall come, wher<g ref="char:EOLhyphen"/>in the Sea and Land,</l>
+               <l>And Heav'ns bright pal<g ref="char:EOLhyphen"/>laces ſhall ſhake, and burn;</l>
+               <pb n="107" facs="tcp:19255:58"/>
+               <l>And all this ſtately frame to ruine turne.</l>
+            </q>
+            <p>It were a tedious thing to inſiſt on all particulars. Hee that would know more of this kind, let him read <hi>Iuſtine Martyr</hi> his <hi>Pareneſis</hi> to the <hi>Greekes</hi> and <hi>Clemens Alexandrinus</hi> his <hi>Protrept.</hi> and his <hi>Stro<g ref="char:EOLhyphen"/>mata;</hi> and <hi>Ioſephus</hi> his bookes againſt <hi>Appio,</hi> but eſpecially <hi>Euſebius</hi> of <hi>E<g ref="char:EOLhyphen"/>vangelicall Preparation.</hi>
+            </p>
+            <p>Theſe things are ſuffi<g ref="char:EOLhyphen"/>cient for the praiſe of <hi>Theologie;</hi> for the time will not permit any more but eſpecially is theſe
+<pb n="108" facs="tcp:19255:59"/>times wherein wee ſee proſtrated as it were the Carcaſſes of ſo many Churches and Vniverſi<g ref="char:EOLhyphen"/>ties, and fires overwhel<g ref="char:EOLhyphen"/>med with ruines. So that now <hi>Theologie</hi> it ſelfe if it could ſpeake without the helpe of men, would require lamentations ra<g ref="char:EOLhyphen"/>ther then praiſes. Vertue is co<g ref="char:cmbAbbrStroke">̄</g>mended butis cold &amp; unregarded. Adulterous Theology flowing in wealth, environed with armes, and greedy of bloud, doth moſt horri<g ref="char:EOLhyphen"/>bly rage for the chaire, &amp; inſults upon the ruines of the Sanctuary. Whilſt
+<pb n="109" facs="tcp:19255:59"/>in the meane while true <hi>Theologie</hi> whiſpereth her Doctrine into a few eares, and hath not where to lay her head. From whence it ariſeth that few doe apply themſelves to theſe Arts, and his pro<g ref="char:EOLhyphen"/>feſſion is better reputed who ſwaggers with a fea<g ref="char:EOLhyphen"/>ther in his Cap, and walkes with a ſword by his ſide, then his who weildeth the ſpirituall ſword of the divine word: and it is a greater glory <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o break a horſe into the Ring, then to compell mens minds into the compaſſe of true Piety,
+<pb n="110" facs="tcp:19255:60"/>and Fathers had rather place their Sons in a way of Merchandize, or to make them common Lawyers, then addict the<g ref="char:cmbAbbrStroke">̄</g> to this ſacred diſcipline. Let my Sonne (ſay they) be an Atourny in Court, let him be a Solliciter of cauſes, let him bee a Ste<g ref="char:EOLhyphen"/>ward, or a Factour, that getteth mony, rather then a Paſtor of the Church, that with an empty purſe ſpeaketh of great things, and thundereth out hea<g ref="char:EOLhyphen"/>venly matters.</p>
+            <p>But as for our parts, if we have true wiſedome, or if we contemne earth<g ref="char:EOLhyphen"/>ly
+<pb n="111" facs="tcp:19255:60"/>things in reſpect of heavenly, neither the per<g ref="char:EOLhyphen"/>verſe judgements of men, nor theſe rigorous times in which ſtudies grow cold, and nothing is fer<g ref="char:EOLhyphen"/>vent but cruelty, nor the deceitfull luſtre of ri<g ref="char:EOLhyphen"/>ches, nor the very ruine of the tottering World ſhal ever remove us from our ſacred purpoſe. Di<g ref="char:EOLhyphen"/>vine wiſedome is a ſuffi<g ref="char:EOLhyphen"/>cient reward unto it ſelf, and whom it admitteth into its diſcipline it car<g ref="char:EOLhyphen"/>ryes the whole race: without dependance of the judgements of men it raiſeth our minds unto
+<pb n="112" facs="tcp:19255:61"/>God. For whoſe ſake to ſuffer contumely is an honourable rebuke, and a reproch more illuſtrious then all humane glory.</p>
+            <p>Wherefore caſting all our cares upon GOD, whoſe counſells cannot be kept backe by the Devill, nor moved forward by our ſorrow, let us abſolve our taske and finiſh our intended worke, with what fideli<g ref="char:EOLhyphen"/>ty, and induſtry we may.</p>
+            <div type="part">
+               <pb n="113" facs="tcp:19255:61"/>
+               <head>The Inauguration of <hi>ALEXANDER COLVINUS.</hi>
+               </head>
+               <p>IT remaineth therefore that we now come un<g ref="char:EOLhyphen"/>to that, which hath beene the cauſe of this frequent Congregation.</p>
+               <p>With Gods good-will we are about to elect un<g ref="char:EOLhyphen"/>to the profeſſion of Di<g ref="char:EOLhyphen"/>vinity, and the degree of a Doctor, <hi>Alexander Col<g ref="char:EOLhyphen"/>vinus,</hi> a man by deſcent noble, endued with much learning and commenda<g ref="char:EOLhyphen"/>ble for his diſpoſition
+<pb n="114" facs="tcp:19255:62"/>and ma<g ref="char:cmbAbbrStroke">̄</g>ners whoſe know<g ref="char:EOLhyphen"/>ledge above his yeares, elegant and piercing wit, acute judgement, tenaci<g ref="char:EOLhyphen"/>ous memory, happy flow<g ref="char:EOLhyphen"/>ing ſpeech, and ſtile lofty with naturall decency, laſtly whoſe great and conſtant labour doe not need our commendation.</p>
+               <p>Hee hath with much praiſe performed the of<g ref="char:EOLhyphen"/>fice of Philoſophy and <hi>Hebrew</hi> reader, for ſome yeares already. But re<g ref="char:EOLhyphen"/>volving greater things in his mind he applyed him<g ref="char:EOLhyphen"/>ſelfe to the ſtudies of Di<g ref="char:EOLhyphen"/>vinity. Wherein having very much profitted hee
+<pb n="115" facs="tcp:19255:62"/>is by his own, juſt deſert and the will of our moſt illuſtrious Dutcheſſe cal<g ref="char:EOLhyphen"/>led unto the profeſſion of <hi>Theologie.</hi> To wit, that this profeſſion which by the death of Profeſſors, or by other caſualties may ſuffer hurt and dam<g ref="char:EOLhyphen"/>mage, might bee confir<g ref="char:EOLhyphen"/>med by the more props and defences.</p>
+               <p>In your ſight hee hath given teſtimonies of his wit and learning both in diſputing and teaching. Not as if we deſired trial of his wit, nor that wee have the leſt doubt of his learning; but that wee
+<pb n="116" facs="tcp:19255:63"/>might ſatisfie cuſtome.</p>
+               <p>Let therefore the uni<g ref="char:EOLhyphen"/>verſity Regiſter ſtand up and read unto thee <hi>Alex<g ref="char:EOLhyphen"/>ander Colvinus</hi> the uſuall forme of Oath, whereun<g ref="char:EOLhyphen"/>to thou ſhalt ſweare, that thou mayeſt know to what Offices thou doeſt tye thy ſelfe, and what are the duties of thy pro<g ref="char:EOLhyphen"/>feſſion.</p>
+               <div type="section">
+                  <head>Here is read the forme of of the Oath.</head>
+                  <p>NOw then, thou moſt worthy man, that ſhalt be a member of our
+<pb n="117" facs="tcp:19255:63"/>Colledge, aſcend this Chaire where thou ſhalt be graced with the dig<g ref="char:EOLhyphen"/>nity of a Doctor, as is due unto thy vertue.</p>
+               </div>
+               <div type="section">
+                  <head>The Doctor to be admitted aſcendeth the Chaire and the Promotor ſpeakes thus unto him.</head>
+                  <p>FIrſt of all I warn thee, and will againe and a<g ref="char:EOLhyphen"/>gaine admoniſh thee, that thou prove all thy doc<g ref="char:EOLhyphen"/>trine according to the rule of Gods word which is contained in the <hi>Cano<g ref="char:EOLhyphen"/>nicall</hi> bookes of the new
+<pb n="118" facs="tcp:19255:64"/>and the old Teſtament, and that thou entangle not mens minds in falſe opinons, and corrupt the uſe of the pulpit which is conſecrated to truth; That thou applaud not thy ſelfe in a vaine ſubtilty of wit, or giue thy ſelfe to curioſity. That thou tire not thine auditour with multiplici<g ref="char:EOLhyphen"/>ty of ſpeech, raiſing que<g ref="char:EOLhyphen"/>ſtions out of queſtions, and being too buſily di<g ref="char:EOLhyphen"/>ligent in unneceſſaries: but forth with invade the maine force of the con<g ref="char:EOLhyphen"/>troverſie, and ſtrike at the heart of falſe Doc<g ref="char:EOLunhyphen"/>trine.
+<pb n="119" facs="tcp:19255:64"/>That thou intermit not thy Lectures with too long neglect, and bee thou more carefull of the benefit of thy Schollers then thine owne fame. And as thou wouldeſt have thine Auditors at<g ref="char:EOLhyphen"/>tentive and earneſt, ſo let thine care be open to the queſtions of thy Schol<g ref="char:EOLhyphen"/>lers when they aske thee. Let thy manners bee blameleſſe, thy life ho<g ref="char:EOLhyphen"/>neſt, thy correction per<g ref="char:EOLhyphen"/>petual, be thou courteous to thy Schollers, peace<g ref="char:EOLhyphen"/>full with thoſe of thy ſo<g ref="char:EOLhyphen"/>ciety, and upright before all men.</p>
+                  <pb n="120" facs="tcp:19255:65"/>
+                  <p>I know that I admoniſh one that is mindfull, and adde ſpurres to one that freely runneth. But it is better to adviſe what is ſuperfluous, then to bee deficient in what is ne<g ref="char:EOLhyphen"/>ceſſary. Whatſoever thou ſhalt judge to bee need<g ref="char:EOLhyphen"/>leſſe in our exhortation, impute it partly to the cuſtome, and partly to our love.</p>
+               </div>
+               <div type="section">
+                  <head>The Forme of Inau<g ref="char:EOLhyphen"/>gration.</head>
+                  <p>THerefore in the name of the Father, the
+<pb n="121" facs="tcp:19255:65"/>Son, and the holy Ghoſt, the Individuall Trinity J create, and declare thee <hi>Alexander Coluinus</hi> to be Doctor of Divinity. And with the conſent, and al<g ref="char:EOLhyphen"/>lowance of our worthy fellowes, I admit thee in<g ref="char:EOLhyphen"/>to the body and Colledge of Profeſſors, that thou may'ſt teach out of this Chaire; And that from henceforth thou enjoy all the priviledges, and immunities, which are granted to this ſacred or<g ref="char:EOLhyphen"/>der by the Illuſtrious Dukes of <hi>Bulloigne.</hi>
+                  </p>
+                  <p>I propoſe unto thee the booke of the ſacred
+<pb n="122" facs="tcp:19255:66"/>Scripture open, that thou mayſt learne wiſedome from thence, and conti<g ref="char:EOLunhyphen"/>nually caſt thine eyes on it. I propoſe the ſame un<g ref="char:EOLhyphen"/>to thee ſhut, that without the helpe of bookes, thou mayſt as often as ſhall be needfull, anſwere unto mens demands <hi>Extem<g ref="char:EOLhyphen"/>pore.</hi>
+                  </p>
+                  <p>I give thee mine hand as to a fellow <hi>Collegian,</hi> for a pledge of our bro<g ref="char:EOLhyphen"/>therly ſociety.</p>
+                  <p>And with this bro<g ref="char:EOLhyphen"/>therly embrace I ſalute thee.</p>
+                  <p>With the good pro<g ref="char:EOLhyphen"/>ſpering and the guidance
+<pb n="123" facs="tcp:19255:66"/>of one good and great God, take on thy ſelfe this office, that it may be an honou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hee, de<g ref="char:EOLhyphen"/>light to our moſt illuſtri<g ref="char:EOLhyphen"/>ous Dutcheſſe, profit to this Vniverſity, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſafegard to Truth. To the glory of Gods name, and the edifying of his Church, through JESUS CHRIST <hi>our Lord, Amen.</hi>
+                  </p>
+                  <trailer>FJNJS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:19255:67" rendition="simple:additions"/>
+            <p>
+               <hi>Imprimatur.</hi> T. WYKES. <hi>January.</hi> 28. 1639.</p>
+            <pb facs="tcp:19255:67"/>
+         </div>
+      </back>
+   </text>
+</TEI>
